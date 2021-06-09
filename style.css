@@ -1,0 +1,11 @@
+body{background-color: yellow;
+    background-image: image('pexels-pixabay-248687.jpg');
+}
+ul{
+    color: red;
+    font-family: "Droid Sans Fallback";
+    font-size: 20px;
+}
+ol{
+    color: black;
+}
